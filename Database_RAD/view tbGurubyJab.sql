@@ -1,0 +1,1 @@
+Select * from tb_guru where jabatan = 'Guru'
